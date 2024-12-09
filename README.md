@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/56c364d4-6fce-478f-ae6e-79c51204db77)
+
 AIM:-
 The project aims to predict the optimal price for a given cuisine and determine the best location to sell that cuisine with the help of scraped data from Zomato. provide insights into the restaurant scene in Bengaluru, India, by analyzing Zomato data: 
 
