@@ -3,7 +3,7 @@
 AIM:-
 The project aims to predict the optimal price for a given cuisine and determine the best location to sell that cuisine with the help of scraped data from Zomato. provide insights into the restaurant scene in Bengaluru, India, by analyzing Zomato data: 
 
-CONTEXT:-
+CONTEXT 📋:-
 I was always fascinated by the food culture of Bengaluru. Restaurants from all over the world can be found here in Bengaluru, The number of restaurant are increasing day by day. Currently which stands at approximately 12,000 restaurants.
 The dataset also contains reviews for each of the restaurant which will help in finding overall rating for the place.
 These kind of analysis can be done using the data, by studying the factors such as
