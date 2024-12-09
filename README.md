@@ -15,6 +15,8 @@ These kind of analysis can be done using the data, by studying the factors such 
 • Is a particular neighborhood famous for its own kind of food.
 The data was scraped from Zomato in two phase.After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz.
 
+METHODOLOGY  🛠️
+
 PHASE I,
 
 In Phase I of extraction only the URL,name and address of the restaurant were extracted which were visible on the front page.The URl's for each of the restaurants on the zomato were recorded in the csv file,
@@ -24,6 +26,14 @@ PHASE II,
 
 In Phase II the recorded data for each restaurant and each category was read and data for each restaurant was scraped individually, 15 variables were scraped in this phase For each of the neighborhood and for each category their online_order,
 book_table, rate, votes, phone, location, rest_type, dish_liked, cuisines, approx_cost(for two people), reviews_list, menu_item was extracted. See section 5 for more details about the variables.
+
+SECTIONS 📚
+
+✔️ Exploratory Data Analysis
+✔️ Visualization
+✔️ Rate Prediction
+✔️ Restraurant Prediction
+✔️ Recommendation System
 
 CONCULSION:-
 As per our analysis, if the person wants to open a remote kitchen in Bangalore he/she should prefer opening it in Shanti Nagar or Basavanagudi,since the place is having less no of restaurant which reduces the competition and it has some of the expensive restaurants in the Banglore, hence the person can deliver food at lower price which reduces the competition even further.
